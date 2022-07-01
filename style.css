@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link{
+    color: black;
+    
+}
+.img{
+    margin: 10;
+    border-radius: 50%;
+    width: 70px;
+}
+.container .row{
+    
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
+
+.pa{
+    text-align: center;
+    margin-top: 120px;
+}
+.col-lg-6 img{
+    height: 600px;
+    justify-content: flex-end;
+    border-radius: 50%;
+}
+.pa p{
+    text-align: left;
+    margin-left: 50px;
+}
+.fa-inbox, .fa-phone , .fa-map , .fa-twitch , .fa-github
+, .fa-youtube , .fa-twitter , .fa-facebook , .fa-instagram{
+    margin-right: 10px;
+}
+.fontawesome  {
+    font-size: 30px;
+
+}
+h4{
+    padding: 5px;
+}
+.pa button {
+    background-color: wheat;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color: aqua;
+}
+.col-sm{
+    text-align: center;
+    border: 1px solid red;
+}
+.btt button{
+    background-color: whitesmoke;
+    cursor: pointer;
+    border: 5px double red;
+    margin: 20px;
+}
+.btt button:hover{
+    background-color: pink;
+}
+.btt button h2{
+ padding: 5px;
+}
+.fa-facebook{
+    color: blue;
+    font-size: 30px;
+}
+.fa-youtube{
+    color: red;
+    font-size: 30px;
+}
+.fa-twitter{
+    color: skyblue;
+    font-size: 30px;
+}
+.fa-twitch{
+    color: purple;
+    font-size: 30px;
+}
+.fa-instagram{
+    color: #d63384;
+    font-size: 30px;
+}
+.fa-github{
+    color: #343a40;
+    font-size: 30px;
+    
+}
+
